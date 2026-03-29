@@ -2,7 +2,7 @@
 -- Pronto para uso via loadstring(game:HttpGet("https://raw.githubusercontent.com/main2/Loader.lua", true))()
 
 local GITHUB_RAW_BASE = 
-    "https://raw.githubusercontent.com/KHAOS-OC97/BuildZoo_HOC_NOC/main/"
+    "https://raw.githubusercontent.com/KHAOS-OC97/Step_HOC_NOC/main/"
 local CACHE_BUSTER = tostring(os.time())
 
 local CACHE_BUSTER = tostring(os.time())
